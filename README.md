@@ -1,20 +1,9 @@
-## Getting Started
+## Number Guessing Game
+Guess a number from 1 - 100. the less guesses it takes, the higher your score.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Black Jack
+Play a round of black jack. After losing or winning, exit out of the processing tab to continue using the game portal.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Game-Portal
-# Game-Portal
+## Buzz feed quiz
+You will be asked a series of questions, from which the program will determine which buzz feed quiz file you are.
