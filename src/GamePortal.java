@@ -1,3 +1,4 @@
+import CardGame.App;
 import Game.ErrorCheck;
 import Game.Game;
 import NumberGuessGame.numGame;
@@ -37,7 +38,7 @@ public class GamePortal {
     public static void loadGames() {
         games.clear();
         games.add(new numGame(0,100, false));
-        //games.add(new CardGame());
+        games.add(new App());
         games.add(new Quiz());
     }
 
